@@ -7,7 +7,7 @@ Since September 2019, I'm studying web development. I never wrote a line of code
 I'm looking for a work-study for September 2020.
 I'm curious and I have a strong team spirit, I love to learn new things each day :smiley:
 
-In my free time, I like to play video games (Biding of Isaac, Skyrim, The Witcher..) and draw doodles. I also enjoy baking cookies and feed my workmates with it.
+In my free time, I like to play video games (Biding of Isaac, Skyrim, The Witcher..) and draw doodles and pixel art. I also enjoy baking cookies and feed my workmates with it.
 I read a lot: comic book, sci-fi, fantasy, I'm a huge fan of Terry Pratchett :purple_heart:
 
 
