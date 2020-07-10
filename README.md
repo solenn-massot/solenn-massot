@@ -1,4 +1,4 @@
-### Welcome ! 👋
+# Welcome ! 👋
 
 #### About me :
 
@@ -15,4 +15,6 @@ I read a lot: comic book, sci-fi, fantasy, I'm a huge fan of Terry Pratchett :pu
 #### Contact :
 
 You reach me on Linkedin : https://www.linkedin.com/in/solenn-massot-b008a7b9/
+
+
 You can also see my work on my personnal website : https://solenn-massot.students-laplateforme.io/
