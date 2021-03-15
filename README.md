@@ -3,7 +3,7 @@
 #### About me :
 
 I'm Solenn, I'm 23 and I'm living in Marseille.
-Since September 2019, I'm studying web development. I never wrote a line of code before that, and now I can work with HTML/CSS, PHP, MySQL, and JavaScript. I'm currently learning Symfony, which I like a lot, for a professional project. 
+Since September 2019, I'm studying web development. I never wrote a line of code before that, and now I can work with HTML/CSS, PHP, MySQL, and JavaScript. I'm currently learning ReactJS ! 
 I'm curious and I have a strong team spirit, I love to learn new things each day :smiley:
 
 In my free time, I like to play video games (Biding of Isaac, Skyrim, The Witcher..) and draw doodles and pixel art. I also enjoy baking cookies and feed my workmates with it  :cookie:
